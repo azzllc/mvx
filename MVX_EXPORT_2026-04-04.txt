@@ -1,0 +1,43 @@
+╔════════════════════════════════════════════════════════════╗
+║                           MVX ADMIN                         ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  📅 Tanggal Export : 4/4/2026, 19.51.27                 ║
+║  📊 Total Akun     : 3 Account                          ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+
+ACCOUNT BERHASIL DI BUAT ✅
+👤 USERNAME  : ibnu
+🔒 PASSWORD  : ganteng
+🔑 LICENSE   : 3DXJ-2C4Z-HSK6-6J62
+📅 CREATED   : 4 Apr 2026
+⏰ EXPIRED   : 5 Apr 2026
+
+PERHATIKAN
+[!] JANGAN BAGIKAN AKUN INI KE SIAPA PUN!
+──────────────────────────────────────────────────────────────
+
+ACCOUNT BERHASIL DI BUAT ✅
+👤 USERNAME  : mvx
+🔒 PASSWORD  : kry
+🔑 LICENSE   : 5J3A-JP4E-MXP9-4SSF
+📅 CREATED   : 4 Apr 2026
+⏰ EXPIRED   : 5 Mei 2026
+
+PERHATIKAN
+[!] JANGAN BAGIKAN AKUN INI KE SIAPA PUN!
+──────────────────────────────────────────────────────────────
+
+ACCOUNT BERHASIL DI BUAT ✅
+👤 USERNAME  : p
+🔒 PASSWORD  : p
+🔑 LICENSE   : 89NK-ND15-656X-4SBN
+📅 CREATED   : 4 Apr 2026
+⏰ EXPIRED   : 4 Mei 2026
+
+PERHATIKAN
+[!] JANGAN BAGIKAN AKUN INI KE SIAPA PUN!
+──────────────────────────────────────────────────────────────
+
+[⚠️] TOTAL 3 DATA BERHASIL DI EXPORT.
